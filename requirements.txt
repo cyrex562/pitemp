@@ -1,0 +1,4 @@
+jsonpickle
+elasticsearch
+Adafruit_DHT
+pydantic
